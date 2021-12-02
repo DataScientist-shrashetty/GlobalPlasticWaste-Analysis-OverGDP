@@ -9,3 +9,8 @@ Reading the GlobalPlasticWasteoverGDP file from  Source : https://ourworldindata
 IDE used : Jupyter Notebook
 
 Using library such as numpy, pandas,seaborn and matplotlib
+
+
+![WasteManaged -GDPv/sPer Person](https://github.com/DataScientist-shrashetty/GlobalPlasticWaste-Analysis-OverGDP/blob/main/Screenshot%20(307).png)
+
+
