@@ -1,5 +1,7 @@
 # GlobalPlasticWaste-Analysis-OverGDP
 
+![](https://github.com/DataScientist-shrashetty/GlobalPlasticWaste-Analysis-OverGDP/blob/main/6c9d5f0b-gp0str1t7.jpg)
+
 Plastic being cheaper and unique material with many benefits is also impacting negatively on our oceans and wildlife.  This analysis is to realise how the production of plastic waste varies from countries based on their GDP and how well are their waste management systems
 
 
